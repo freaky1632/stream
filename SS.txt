@@ -14,12 +14,12 @@ http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 https://fujitv1.mov3.co/hls/fujitv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/1280px-Gtv_logo_ja_01.svg.png" group-title="Misc",JP_Gunma TV*
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/672385646208487426/IHkCGVxU.png" group-title="News",JP_NTV News 24*
-https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" group-title="Misc", JP_NHK G*
 https://nhk1.mov3.co/hls/nhk.m3u8
 #EXTINF:0 tvg-logo="https://d285i0j5z4r2w7.cloudfront.net/channel_logos/869.png" group-title="News",JP_NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/672385646208487426/IHkCGVxU.png" group-title="News",JP_NTV News 24*
+https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1024px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="Misc", JP_TBS*
 https://tbs1.mov3.co/hls/tbs.m3u8
 #EXTINF:0 tvg-logo="https://i2.wp.com/www.sittingonclouds.net/wp-content/uploads/2018/03/Tokyo-MX-LOGO.png?fit=1024%2C131&ssl=1" group-title="Misc",JP_Tokyo MX Live*
@@ -34,17 +34,12 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/842px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News",SG_Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:0 tvg-logo="https://static.tvno.nu/12783" group-title="News",UK_Sky News
-https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-
 #EXTINF:0 tvg-logo="https://www.abc.net.au/cm/lb/8212706/data/news-logo-2017---desktop-print-data.png" group-title="News",AU_ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.one.accedo.tv/files/5d21c76423eec60011ea78cf" group-title="News",AU_Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 #EXTINF:0 tvg-logo="https://mediaweek.com.au/wp-content/uploads/2017/05/FOX_SPORTS_NEWS_LOGO_DIGITAL.png" group-title="News",AU_Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:0 tvg-logo="https://thoroughbredracing.com.au/wp-content/uploads/2020/01/111-7-300x188.png" group-title="Sport",AU_Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
 #EXTINF:0 tvg-logo="https://wayne.cbslocal.com/logo-database/logos/CBSN_NEW_YORK_LOG1.png" group-title="News",US_CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
