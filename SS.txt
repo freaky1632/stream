@@ -14,14 +14,6 @@ http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:0 tvg-logo="https://www.daai.tv/images/logo.png" group-title="Misc",TW_DaAi 2
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:0 tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" group-title="News",TW_EBC Fin News
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:0 tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="News",TW_EBC News
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/41/SET_iNews_logo_2017.png" group-title="News",TW_SET News
-http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3f/TTV_News_Channel_with_HD_2016.png/440px-TTV_News_Channel_with_HD_2016.png" group-title="News",TW_TTV News
-http://seb.sason.top/sc/tsxw_fhd.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="Misc", JP_Fuji TV*
 https://fujitv1.mov3.co/hls/fujitv.m3u8
@@ -35,14 +27,17 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1024px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="Misc", JP_TBS*
 https://tbs1.mov3.co/hls/tbs.m3u8
-#EXTINF:0 tvg-logo="https://i2.wp.com/www.sittingonclouds.net/wp-content/uploads/2018/03/Tokyo-MX-LOGO.png?fit=1024%2C131&ssl=1" group-title="Misc",JP_Tokyo MX Live*
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1280px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Misc",JP_Tokyo MX Live*
 http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-#EXTINF:0 tvg-logo="https://i2.wp.com/www.sittingonclouds.net/wp-content/uploads/2018/03/Tokyo-MX-LOGO.png?fit=1024%2C131&ssl=1" group-title="Misc",JP_Tokyo MX1*
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1280px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Misc",JP_Tokyo MX1*
 http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://i2.wp.com/www.sittingonclouds.net/wp-content/uploads/2018/03/Tokyo-MX-LOGO.png?fit=1024%2C131&ssl=1" group-title="Misc",JP_Tokyo MX2*
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1280px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Misc",JP_Tokyo MX2*
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1024px-Weathernews_logo.svg.png" group-title="News",JP_Weather News*
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/770px-Arirang.svg.png" group-title="Misc",KR_Arirang World*
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/842px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News",SG_Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -56,13 +51,15 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 
 #EXTINF:0 tvg-logo="https://wayne.cbslocal.com/logo-database/logos/CBSN_NEW_YORK_LOG1.png" group-title="News",US_CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+#EXTINF:0 tvg-logo="https://toppng.com/uploads/preview/cnn-international-logo-png-cnn-logo-11562982950rfhtq9kum0.png" group-title="News",US_CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logodix.com/logo/812207.png" group-title="Misc",US_Entertainment Tonight
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
 #EXTINF:0 tvg-logo="https://public.flourish.studio/uploads/383859ed-a709-4495-8768-0c45e1eda9b6.png" group-title="News",FR_Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="News",FR_France 24
-http://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+http://static.france24.com/live/F24_ES_HI_HLS/live_tv.m3u8
 
 #EXTINF:0 tvg-logo="https://www.asiasat.com/sites/default/files/asiasat%20customer%20%20trt%20world_1.png" group-title="News",TR_TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
@@ -75,13 +72,6 @@ https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 
 #EXTINF:0 tvg-logo="http://samara11x11.ucoz.ru/music/KroneHIT_TV_HD.png" group-title="Music",AT_KroneHit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
-
-#EXTINF:0 tvg-logo="https://www.avis.it/wp-content/uploads/2014/06/Logo_DeeJay.png" group-title="Music",IT_Deejay TV
-http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/ab/Radio_Capital_-_Logo_2019.svg/1200px-Radio_Capital_-_Logo_2019.svg.png" group-title="Music",IT_Radio Capital TV
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/260px-Radio_m2o_-_Logo_2019.svg.png" group-title="Music",IT_Radio m2o
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1280px-VH1_logonew.svg.png" group-title="Music",IT_VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
@@ -91,6 +81,3 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C3%93%C4%8Dko_Expres_logo.png" group-title="Music",CZ_Ocko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/770px-Arirang.svg.png" group-title="Misc",KR_Arirang World*
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
