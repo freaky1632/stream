@@ -10,9 +10,9 @@ http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="Misc",MO_TDM Macau
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.daai.tv/images/logo.png" group-title="Misc",TW_DaAi 1
+#EXTINF:0 tvg-logo="https://daai.tv/images/logo.png" group-title="Misc",TW_DaAi 1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:0 tvg-logo="https://www.daai.tv/images/logo.png" group-title="Misc",TW_DaAi 2
+#EXTINF:0 tvg-logo="https://daai.tv/images/logo.png" group-title="Misc",TW_DaAi 2
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="Misc", JP_Fuji TV*
@@ -50,7 +50,7 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/770px-Arirang.svg.png" group-title="Misc",KR_Arirang World*
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" title="Misc",KR_KBS World
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/320px-KBS_World_%282009%29.svg.png" title="Misc",KR_KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/842px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News",SG_Channel News Asia
@@ -60,8 +60,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.one.accedo.tv/files/5d21c76423eec60011ea78cf" group-title="News",AU_Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:0 tvg-logo="https://mediaweek.com.au/wp-content/uploads/2017/05/FOX_SPORTS_NEWS_LOGO_DIGITAL.png" group-title="News",AU_Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:0 tvg-logo="https://wayne.cbslocal.com/logo-database/logos/CBSN_NEW_YORK_LOG1.png" group-title="News",US_CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
@@ -75,8 +73,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:0 tvg-logo="https://public.flourish.studio/uploads/383859ed-a709-4495-8768-0c45e1eda9b6.png" group-title="News",FR_Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-#EXTINF:0 tvg-logo="" title="News",FR_France 24
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
 
 #EXTINF:0 tvg-logo="https://www.asiasat.com/sites/default/files/asiasat%20customer%20%20trt%20world_1.png" group-title="News",TR_TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
@@ -87,7 +83,7 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0 tvg-logo="https://www.broadcastbeat.com/wp-content/uploads/2020/02/RGB-InsightTV-Portrait.png" group-title="Misc",NL_Insight TV
 https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 
-#EXTINF:0 tvg-logo="http://samara11x11.ucoz.ru/music/KroneHIT_TV_HD.png" group-title="Music",AT_KroneHit
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51NpwMKMM8L.png" group-title="Music",AT_KroneHit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1280px-VH1_logonew.svg.png" group-title="Music",IT_VH1
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
