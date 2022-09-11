@@ -10,9 +10,9 @@ http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="Misc",MO_TDM Macau
 http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 
-#EXTINF:0 tvg-logo="https://daai.tv/images/logo.png" group-title="Misc",TW_DaAi 1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/ba/Tzu_Chi_Foundation_logo.svg/450px-Tzu_Chi_Foundation_logo.svg.png" group-title="Misc",TW_DaAi 1
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:0 tvg-logo="https://daai.tv/images/logo.png" group-title="Misc",TW_DaAi 2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/ba/Tzu_Chi_Foundation_logo.svg/450px-Tzu_Chi_Foundation_logo.svg.png" group-title="Misc",TW_DaAi 2
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="Misc", JP_Fuji TV*
@@ -65,7 +65,7 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 #EXTINF:0 tvg-logo="https://assets.stickpng.com/images/5842ab75a6515b1e0ad75b0b.png" group-title="News",US_CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-logo="https://logodix.com/logo/812207.png" group-title="Misc",US_Entertainment Tonight
+#EXTINF:0 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/70259/616334-348513/2934ac80e8d89ffd2fc975d0695f78ab.png" group-title="Misc",US_Entertainment Tonight
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" title="News",DE_DW News
