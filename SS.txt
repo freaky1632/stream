@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:0 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="Misc",HK_HKOpenTV
+#EXTINF:0 tvg-logo="https://www.hkytsa.org/events/2021YouthLeader/img/support/msupport/%E9%A6%99%E6%B8%AF%E9%96%8B%E9%9B%BB%E8%A6%96_logo.png" group-title="Misc",HK_HKOpenTV
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1000px-RTHK_TV_31.svg.png" group-title="Misc",HK_RTHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
@@ -17,6 +17,8 @@ https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="Misc", JP_Fuji TV*
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="Misc", JP_Fuji TV*
+https://fujitv2.mov3.co/hls/fujitv.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/1280px-Gtv_logo_ja_01.svg.png" group-title="Misc",JP_Gunma TV*
 https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" group-title="Misc", JP_NHK E*
@@ -32,7 +34,7 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1024px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="Misc", JP_TBS*
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1024px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="Misc", JP_TBS*
-https://tbs1.mov3.co/hls/tbs.m3u8
+https://tbs2.mov3.co/hls/tbs.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1280px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Misc",JP_Tokyo MX Live*
 http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1280px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Misc",JP_Tokyo MX1*
@@ -43,12 +45,13 @@ http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="Misc",JP_TV Tokyo*
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1024px-Weathernews_logo.svg.png" group-title="News",JP_Weather News*
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/770px-Arirang.svg.png" group-title="Misc",KR_Arirang World*
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" title="Misc",KR_KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/842px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News",SG_Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -67,8 +70,13 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-logo="https://logodix.com/logo/812207.png" group-title="Misc",US_Entertainment Tonight
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" title="News",DE_DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 #EXTINF:0 tvg-logo="https://public.flourish.studio/uploads/383859ed-a709-4495-8768-0c45e1eda9b6.png" group-title="News",FR_Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:0 tvg-logo="" title="News",FR_France 24
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
 
 #EXTINF:0 tvg-logo="https://www.asiasat.com/sites/default/files/asiasat%20customer%20%20trt%20world_1.png" group-title="News",TR_TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
