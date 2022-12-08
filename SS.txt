@@ -1,7 +1,9 @@
 ﻿#EXTM3U
 
-#EXTINF:0 tvg-logo="https://www.hkytsa.org/events/2021YouthLeader/img/support/msupport/%E9%A6%99%E6%B8%AF%E9%96%8B%E9%9B%BB%E8%A6%96_logo.png" group-title="Misc",HK_HKOpenTV
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/247b98_c6edf2fc21704bbe8a3755e72472f13f~mv2.png" group-title="Misc",HK_Hoy TV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:0 tvg-logo="https://static.wixstatic.com/media/247b98_c6edf2fc21704bbe8a3755e72472f13f~mv2.png" group-title="Misc",HK_Hoy TV Info
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1000px-RTHK_TV_31.svg.png" group-title="Misc",HK_RTHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1000px-RTHK_TV_32.svg.png" group-title="Misc",HK_RTHK32
@@ -15,6 +17,8 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/ba/Tzu_Chi_Foundation_logo.svg/450px-Tzu_Chi_Foundation_logo.svg.png" group-title="Misc",TW_DaAi 2
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/320px-AT-X_logo.svg.png" group-title="Anime", JP_AT-X*
+https://sub.neetball.net/live/neet.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="Misc", JP_Fuji TV*
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="Misc", JP_Fuji TV*
@@ -58,15 +62,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 
 #EXTINF:0 tvg-logo="https://www.abc.net.au/cm/lb/8212706/data/news-logo-2017---desktop-print-data.png" group-title="News",AU_ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:0 tvg-logo="https://cdn.one.accedo.tv/files/5d21c76423eec60011ea78cf" group-title="News",AU_Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
 #EXTINF:0 tvg-logo="https://wayne.cbslocal.com/logo-database/logos/CBSN_NEW_YORK_LOG1.png" group-title="News",US_CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
-#EXTINF:0 tvg-logo="https://assets.stickpng.com/images/5842ab75a6515b1e0ad75b0b.png" group-title="News",US_CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0 tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/releases/docimages/70259/616334-348513/2934ac80e8d89ffd2fc975d0695f78ab.png" group-title="Misc",US_Entertainment Tonight
-https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" title="News",DE_DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
