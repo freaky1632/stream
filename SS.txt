@@ -55,6 +55,8 @@ http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
 http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/1280px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="JP",JP_Tokyo MX2*
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="JP",JP_TV Tokyo*
+http://203.162.235.41:19098
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Weathernews_logo.svg/1024px-Weathernews_logo.svg.png" group-title="JP",JP_Weather News*
 http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
