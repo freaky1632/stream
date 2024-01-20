@@ -31,9 +31,9 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="JP", JP_BS TV Tokyo*
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
-#EXTINF:0 tvg-logo="https://i.imgur.com/7VcFGkx.png" group-title="JP", JP_CS Kayopops*
+#EXTINF:0 tvg-logo="https://www.cty-net.ne.jp/cms/wp-content/uploads/2020/12/kayopops.png" group-title="JP", JP_CS Kayopops*
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-#EXTINF:0 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png" group-title="JP", JP_CS TBS News*
+#EXTINF:0 tvg-logo="https://www.cty-net.ne.jp/cms/wp-content/uploads/2020/12/tbsnews.png" group-title="JP", JP_CS TBS News*
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="JP", JP_Fuji TV*
 https://fujitv3.mov3.co/hls/fujitv.m3u8
