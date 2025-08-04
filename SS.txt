@@ -18,13 +18,25 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" group-title="JP", JP_NHK G*
-https://nhk4.mov3.co/hls/nhk.m3u8
+https://vn.utako.moe/NHK_G/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" group-title="JP", JP_NHK E*
+https://vn.utako.moe/NHK_E/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1280px-Nippon_TV_logo_2014.svg.png" group-title="JP",JP_NTV*
-https://ntv4.mov3.co/hls/ntv.m3u8
+https://vn.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="JP",JP_TV Asahi*
+https://vn.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1024px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="JP", JP_TBS*
-https://tbs5.mov3.co/hls/tbs.m3u8
+https://vn.utako.moe/TBS/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="JP",JP_TV Tokyo*
+https://vn.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="JP", JP_Fuji TV*
-https://fujitv4.mov3.co/hls/fujitv.m3u8
+https://vn.utako.moe/Fuji_TV/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/320px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="JP", JP_Tokyo MX 1*
+https://vn.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/320px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="JP", JP_Tokyo MX 1*
+https://vn.utako.moe/Tokyo_MX2/index.m3u8
+#EXTINF:0 tvg-logo="https://www.spaceshower.net/s3/skiyaki/uploads/ckeditor/pictures/699382/content_spaceshower_yoko_%E8%83%8C%E6%99%AF%E6%8A%9C%E3%81%8D_logo.png" group-title="JP", JP_CS SpaceShower*
+https://vn.utako.moe/spaceshower/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" group-title="JP", JP_NHK G*
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -101,3 +113,4 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C3%93%C4%8Dko_Expres_logo.png" group-title="Music",CZ_Ocko Expres
 
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
