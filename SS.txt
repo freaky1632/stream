@@ -35,7 +35,7 @@ https://vn.utako.moe/Fuji_TV/index.m3u8
 https://vn.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/320px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="JP", JP_Tokyo MX 1*
 https://vn.utako.moe/Tokyo_MX2/index.m3u8
-#EXTINF:0 tvg-logo="https://tv.spaceshower.jp/assets/img/common/sstv_basis.png" group-title="JP", JP_CS SpaceShower*
+#EXTINF:0 tvg-logo="https://macaroniempitsu.com/wp/wp-content/uploads/2019/02/index12.png" group-title="JP", JP_CS SpaceShower*
 https://vn.utako.moe/spaceshower/index.m3u8
 #EXTINF:0 tvg-logo="https://www.ogaki-tv.co.jp/services/tv/img/channel/logo_kayopops.png" group-title="JP",JP_CS Kayopops*
 https://vn.utako.moe/kayopops/index.m3u8
