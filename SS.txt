@@ -10,12 +10,9 @@ http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="Misc",MO_TDM Macau
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/ba/Tzu_Chi_Foundation_logo.svg/450px-Tzu_Chi_Foundation_logo.svg.png" group-title="Misc",TW_DaAi 1
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/b/ba/Tzu_Chi_Foundation_logo.svg/450px-Tzu_Chi_Foundation_logo.svg.png" group-title="Misc",TW_DaAi 2
-https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/TDM_Information.png/revision/latest/scale-to-width-down/754?cb=20230511122357&path-prefix=vi" group-title="Misc",MO_TDM Info
+http://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" group-title="JP", JP_NHK G*
 https://mt01.utako.moe/NHK_G/index.m3u8
@@ -42,20 +39,21 @@ https://ca01.utako.moe/kayopops/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/770px-Arirang.svg.png" group-title="Misc",KR_Arirang World*
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/320px-KBS_World_%282009%29.svg.png" group-title="Misc",KR_KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/842px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News",SG_Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.abc.net.au/cm/lb/8212706/data/news-logo-2017---desktop-print-data.png" group-title="News",AU_ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:0 tvg-logo="https://wayne.cbslocal.com/logo-database/logos/CBSN_NEW_YORK_LOG1.png" group-title="News",US_CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="News",DE_DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/330px-France24.png" group-title="News",FR_France 24
+live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 
 #EXTINF:0 tvg-logo="https://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",QA_AlJazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
