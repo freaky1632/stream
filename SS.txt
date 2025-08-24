@@ -43,7 +43,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/842px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News",SG_Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:0 tvg-logo="https://www.abc.net.au/cm/lb/8212706/data/news-logo-2017---desktop-print-data.png" group-title="News",AU_ABC News
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ABC_News_%28Australia%29_logo.svg/330px-ABC_News_%28Australia%29_logo.svg.png" group-title="News",AU_ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:0 tvg-logo="https://wayne.cbslocal.com/logo-database/logos/CBSN_NEW_YORK_LOG1.png" group-title="News",US_CBSN New York
@@ -54,6 +54,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/330px-France24.png" group-title="News",FR_France 24
 live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="News",FR_Trace Urban
+https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",QA_AlJazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
