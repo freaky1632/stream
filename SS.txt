@@ -57,16 +57,16 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #EXTINF:0 tvg-logo="https://wayne.cbslocal.com/logo-database/logos/CBSN_NEW_YORK_LOG1.png" group-title="News",US_CBSN New York
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 
+#EXTINF:0 tvg-logo="https://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",QA_AlJazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="News",DE_DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/330px-France24.png" group-title="News",FR_France 24
-live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png" group-title="News",FR_Trace Urban
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",QA_AlJazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51NpwMKMM8L.png" group-title="Music",AT_KroneHit
 http://bitcdn-kronehit.bitmovin.com/v2/hls/master.m3u8
