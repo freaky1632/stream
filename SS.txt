@@ -36,6 +36,8 @@ https://mt01.utako.moe/Tokyo_MX2/index.m3u8
 https://ca01.utako.moe/spaceshower/index.m3u8
 #EXTINF:0 tvg-logo="https://www.ogaki-tv.co.jp/services/tv/img/channel/logo_kayopops.png" group-title="JP",JP_CS Kayopops*
 https://ca01.utako.moe/kayopops/index.m3u8
+#EXTINF:0 tvg-logo="" group-title="JP",JP_CS TBS News*
+https://hkali.youyouko.com/api/streams/live/cs351/540p/mpegts/
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/770px-Arirang.svg.png" group-title="Misc",KR_Arirang World*
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
