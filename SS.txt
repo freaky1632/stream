@@ -41,32 +41,6 @@ https://nl.utako.moe/kayopops/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/330px-NHK_World-Japan_TV.svg.png" group-title="Misc",JP_NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" group-title="JP", JP_NHK G_2*
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd01
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" group-title="JP", JP_NHK E_2*
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd02
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1280px-Nippon_TV_logo_2014.svg.png" group-title="JP",JP_NTV_2*
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd03
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="JP",JP_TV Asahi_2*
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd06
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1024px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="JP", JP_TBS_2*
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd04
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="JP",JP_TV Tokyo_2*
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd07
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="JP", JP_Fuji TV_2*
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd05
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/320px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="JP", JP_Tokyo MX 1_2*
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd08
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" tvg-id="nhk_g_tokyo" group-title="JP", JP_NHK G_3*
-https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1280px-Nippon_TV_logo_2014.svg.png" tvg-id="ntv" group-title="JP",JP_NTV_3*
-https://ntv5.mov3.co/hls/ntv.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1024px-Tokyo_Broadcasting_System_logo_2020.svg.png" tvg-id="tbs" group-title="JP", JP_TBS_3*
-https://tbs5.mov3.co/hls/tbs.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" tvg-id="fuji_tv" group-title="JP", JP_Fuji TV_3*
-https://fujitv4.mov3.co/hls/fujitv.m3u8
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/770px-Arirang.svg.png" group-title="Misc",KR_Arirang World*
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -98,4 +72,5 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png" group-title="Music",CZ_Ocko Star
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/%C3%93%C4%8Dko_Expres_logo.png" group-title="Music",CZ_Ocko Expres
+
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
