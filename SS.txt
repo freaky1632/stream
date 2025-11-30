@@ -40,6 +40,8 @@ https://nl.utako.moe/mtv/index.m3u8
 https://nl.utako.moe/kayopops/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/330px-NHK_World-Japan_TV.svg.png" group-title="Misc",JP_NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/330px-NHK_logo_2020.svg.png" group-title="Misc",JP_NHK World Premium
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" group-title="JP", JP_NHK G_2
 https://proxyvn.utako.moe/ph.php?&isp=1&id=gd01
