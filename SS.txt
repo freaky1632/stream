@@ -43,23 +43,6 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/330px-NHK_logo_2020.svg.png" group-title="Misc",JP_NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" group-title="JP", JP_NHK G_2
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd01
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" group-title="JP", JP_NHK E_2
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd02
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1280px-Nippon_TV_logo_2014.svg.png" group-title="JP",JP_NTV_2
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd03
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" group-title="JP",JP_TV Asahi_2
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd06
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1024px-Tokyo_Broadcasting_System_logo_2020.svg.png" group-title="JP", JP_TBS_2
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd04
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" group-title="JP",JP_TV Tokyo_2
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd07
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" group-title="JP", JP_Fuji TV_2
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd05
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/320px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="JP", JP_Tokyo MX 1_2
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd08
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" tvg-id="nhk_g_tokyo" group-title="JP", JP_NHK G_3
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1280px-Nippon_TV_logo_2014.svg.png" tvg-id="ntv" group-title="JP",JP_NTV_3
@@ -85,7 +68,7 @@ https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 https://live-hls-apps-ajm2-fa.getaj.net/AJE/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/330px-BBC_News_2022_%28Alt%29.svg.png" group-title="News",UK_BBC News
-https://cdn.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="News",DE_DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
