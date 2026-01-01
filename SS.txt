@@ -4,9 +4,9 @@
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:0 tvg-logo="https://static.wixstatic.com/media/247b98_c6edf2fc21704bbe8a3755e72472f13f~mv2.png" group-title="Misc",HK_Hoy TV Info
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1000px-RTHK_TV_31.svg.png" group-title="Misc",HK_RTHK31
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/8a/RTHK_TV_31.svg/500px-RTHK_TV_31.svg.png" group-title="Misc",HK_RTHK31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1000px-RTHK_TV_32.svg.png" group-title="Misc",HK_RTHK32
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="Misc",HK_RTHK32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="Misc",MO_TDM Macau
@@ -22,15 +22,15 @@ https://nl.utako.moe/NHK_E/index.m3u8
 https://nl.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" tvg-id="tv_asahi" group-title="JP",JP_TV Asahi
 https://nl.utako.moe/TV_Asahi/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1024px-Tokyo_Broadcasting_System_logo_2020.svg.png" tvg-id="tbs" group-title="JP", JP_TBS
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/960px-Tokyo_Broadcasting_System_logo_2020.svg.png" tvg-id="tbs" group-title="JP", JP_TBS
 https://nl.utako.moe/TBS/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png" tvg-id="tv_tokyo" group-title="JP",JP_TV Tokyo
 https://nl.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" tvg-id="fuji_tv" group-title="JP", JP_Fuji TV
 https://nl.utako.moe/Fuji_TV/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/320px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-id="tokyo_mx_1" group-title="JP", JP_Tokyo MX 1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/960px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-id="tokyo_mx_1" group-title="JP", JP_Tokyo MX 1
 https://nl.utako.moe/Tokyo_MX1/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/320px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-id="tokyo_mx2" group-title="JP", JP_Tokyo MX 2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/960px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-id="tokyo_mx2" group-title="JP", JP_Tokyo MX 2
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
 #EXTINF:0 tvg-logo="https://macaroniempitsu.com/wp/wp-content/uploads/2019/02/index12.png" group-title="JP", JP_CS SpaceShower
 https://nl.utako.moe/spaceshower/index.m3u8
@@ -43,19 +43,19 @@ https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/330px-NHK_logo_2020.svg.png" group-title="Misc",JP_NHK World Premium
 https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" tvg-id="nhk_g_tokyo" group-title="JP", JP_NHK G_3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/1200px-NHK_logo_2020.svg.png" tvg-id="nhk_g_tokyo" group-title="JP", JP_NHK G
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1280px-Nippon_TV_logo_2014.svg.png" tvg-id="ntv" group-title="JP",JP_NTV_3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1280px-Nippon_TV_logo_2014.svg.png" tvg-id="ntv" group-title="JP",JP_NTV
 https://ntv5.mov3.co/hls/ntv.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/1024px-Tokyo_Broadcasting_System_logo_2020.svg.png" tvg-id="tbs" group-title="JP", JP_TBS_3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/960px-Tokyo_Broadcasting_System_logo_2020.svg.png" tvg-id="tbs" group-title="JP", JP_TBS
 https://tbs5.mov3.co/hls/tbs.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" tvg-id="fuji_tv" group-title="JP", JP_Fuji TV_3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png" tvg-id="fuji_tv" group-title="JP", JP_Fuji TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/770px-Arirang.svg.png" group-title="Misc",KR_Arirang World
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/960px-Arirang_logo.png" group-title="Misc",KR_Arirang World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/842px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News",SG_Channel News Asia
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/960px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="News",SG_Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ABC_News_%28Australia%29_logo.svg/330px-ABC_News_%28Australia%29_logo.svg.png" group-title="News",AU_ABC News
