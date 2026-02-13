@@ -38,7 +38,7 @@ https://nl.utako.moe/spaceshower/index.m3u8
 https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:0 tvg-logo="https://www.ogaki-tv.co.jp/services/tv/img/channel/logo_kayopops.png" tvg-id="kayo_pops" group-title="JP",JP_CS Kayopops
 https://nl.utako.moe/kayopops/index.m3u8
-#EXTINF:0 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png" group-title="JP",JP_CS TBS News
+#EXTINF:0 tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/860.png" group-title="JP",JP_CS TBS News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/330px-NHK_World-Japan_TV.svg.png" group-title="Misc",JP_NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
