@@ -36,9 +36,11 @@ https://nl.utako.moe/Tokyo_MX2/index.m3u8
 https://nl.utako.moe/spaceshower/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/MTV-Logo.svg/330px-MTV-Logo.svg.png" tvg-id="mtv" group-title="JP", JP_CS MTV
 https://nl.utako.moe/mtv/index.m3u8
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv.png" tvg-id="music_on_tv" group-title="JP", JP_Music ON! TV
+https://nl.utako.moe/musicon/index.m3u8
 #EXTINF:0 tvg-logo="https://www.ogaki-tv.co.jp/services/tv/img/channel/logo_kayopops.png" tvg-id="kayo_pops" group-title="JP",JP_CS Kayopops
 https://nl.utako.moe/kayopops/index.m3u8
-#EXTINF:0 tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/860.png" group-title="JP",JP_CS TBS News
+#EXTINF:0 tvg-logo="https://ru.apkshub.com/images/f1/li.yapp.app8824726E/icon.png" group-title="JP",JP_CS TBS News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/330px-NHK_World-Japan_TV.svg.png" group-title="Misc",JP_NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
