@@ -81,7 +81,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:0 tvg-logo="https://wayne.cbslocal.com/logo-database/logos/CBSN_NEW_YORK_LOG1.png" group-title="News",US_CBSN New York
-https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 
 #EXTINF:0 tvg-logo="https://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="News",QA_AlJazeera
 https://live-hls-apps-ajm2-fa.getaj.net/AJE/index.m3u8
