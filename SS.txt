@@ -30,7 +30,7 @@ http://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 http://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/960px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-id="TokyoMX1.jp" group-title="JP", JP_Tokyo MX 1
 http://akariko.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/960px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-id="TokyoMX1.jp" group-title="JP", JP_Tokyo MX 2
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/960px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-id="TokyoMX2.jp" group-title="JP", JP_Tokyo MX 2
 http://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png" tvg-id="JOAKDTV.jp" group-title="JP", JP_NHK G
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
