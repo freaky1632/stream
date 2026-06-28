@@ -56,7 +56,7 @@ http://58.82.168.138:5002/gd07.m3u8?token=guoziyun&gid=gd07&channel=zhongying
 http://58.82.168.138:5002/gd05.m3u8?token=guoziyun&gid=gd05&channel=zhongying
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/960px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-id="TokyoMX1.jp" group-title="JP", JP_Tokyo MX 1
 http://58.82.168.138:5002/gd08.m3u8?token=guoziyun&gid=gd08&channel=zhongying
-#EXTINF:0 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png" tvg-id="tbsnews.jp" group-title="JP",JP_TBS News 24*
+#EXTINF:0 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png" tvg-id="TBSNewsCS.jp" group-title="JP",JP_TBS News 24*
 http://58.82.168.138:5002/cs11.m3u8?token=guoziyun&gid=cs11&channel=zhongying
 
 #EXTINF:0 tvg-logo="https://www.mcat.co.jp/wp/wp-content/themes/mihara-tv/images/ch/793.png" tvg-id="" group-title="JP",JP_NTV News 24*
