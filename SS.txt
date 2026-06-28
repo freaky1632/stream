@@ -41,9 +41,23 @@ http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 #EXTINF:0 tvg-logo="https://www.ogaki-tv.co.jp/services/tv/img/channel/logo_kayopops.png" tvg-id="KayoPops.jp" group-title="JP",JP_CS Kayopops
 http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png" tvg-id="JOAKDTV.jp" group-title="JP", JP_NHK G
-http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying
+http://58.82.168.138:5002/gd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png" tvg-id="JOABDTV.jp" group-title="JP", JP_NHK E
+http://58.82.168.138:5002/gd01.m3u8?token=guoziyun&gid=gd02&channel=zhongying
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/1280px-Nippon_TV_logo_2014.svg.png" tvg-id="JOAXDTV.jp" group-title="JP",JP_NTV
+http://58.82.168.138:5002/gd01.m3u8?token=guoziyun&gid=gd03&channel=zhongying
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1280px-TV_Asahi_Logo.svg.png" tvg-id="JOEXDTV.jp" group-title="JP",JP_TV Asahi
+http://58.82.168.138:5002/gd01.m3u8?token=guoziyun&gid=gc06&channel=zhongying
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/960px-Tokyo_Broadcasting_System_logo_2020.svg.png" tvg-id="JORXDTV.jp" group-title="JP", JP_TBS
+http://58.82.168.138:5002/gd01.m3u8?token=guoziyun&gid=gd04&channel=zhongying
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/330px-TV_Tokyo_logo_2023.svg.png" tvg-id="JOTXDTV.jp" group-title="JP",JP_TV Tokyo
+http://58.82.168.138:5002/gd01.m3u8?token=guoziyun&gid=gd07&channel=zhongying
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/ad/Fuji_tv_logo.png/250px-Fuji_tv_logo.png" tvg-id="JOCXDTV.jp" group-title="JP", JP_Fuji TV
+http://58.82.168.138:5002/gd01.m3u8?token=guoziyun&gid=gd05&channel=zhongying
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/960px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-id="TokyoMX1.jp" group-title="JP", JP_Tokyo MX 1
+http://58.82.168.138:5002/gd01.m3u8?token=guoziyun&gid=gd08&channel=zhongying
 
-#EXTINF:0 tvg-logo="https://www.mcat.co.jp/wp/wp-content/themes/mihara-tv/images/ch/793.png" tvg-id="NTVNEWS24.jp" group-title="JP",JP_NTV News 24*
+#EXTINF:0 tvg-logo="https://www.mcat.co.jp/wp/wp-content/themes/mihara-tv/images/ch/793.png" tvg-id="" group-title="JP",JP_NTV News 24*
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://wajo-holdings.jp/wordpress/wp-content/uploads/2024/05/fnn.png" tvg-id="" group-title="JP",JP_FNN Prime Online*
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
