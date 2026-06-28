@@ -64,7 +64,7 @@ http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 http://58.82.168.138:5002/cs06.m3u8?token=guoziyun&gid=cs06&channel=zhongying
 #EXTINF:0 tvg-logo="https://www.ogaki-tv.co.jp/services/tv/img/channel/logo_kayopops.png" tvg-id="KayoPops.jp" group-title="JP",JP_CS Kayopops
 http://58.82.168.138:5002/cs13.m3u8?token=guoziyun&gid=cs13&channel=zhongying
-#EXTINF:0 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png" tvg-id="TBSNewsCS.jp" group-title="JP",JP_CS TBS News 24*
+#EXTINF:0 tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-152-400x400.png" tvg-id="TBSNewsCS.jp" group-title="JP",JP_CS TBS News 24
 http://58.82.168.138:5002/cs11.m3u8?token=guoziyun&gid=cs11&channel=zhongying
 
 #EXTINF:0 tvg-logo="https://www.mcat.co.jp/wp/wp-content/themes/mihara-tv/images/ch/793.png" tvg-id="" group-title="JP",JP_RT NTV News 24*
