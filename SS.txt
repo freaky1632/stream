@@ -40,6 +40,9 @@ http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
 http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 #EXTINF:0 tvg-logo="https://www.ogaki-tv.co.jp/services/tv/img/channel/logo_kayopops.png" tvg-id="KayoPops.jp" group-title="JP",JP_CS Kayopops
 http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png" tvg-id="JOAKDTV.jp" group-title="JP", JP_NHK G
+http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying
+
 #EXTINF:0 tvg-logo="https://www.mcat.co.jp/wp/wp-content/themes/mihara-tv/images/ch/793.png" tvg-id="NTVNEWS24.jp" group-title="JP",JP_NTV News 24*
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://wajo-holdings.jp/wordpress/wp-content/uploads/2024/05/fnn.png" tvg-id="" group-title="JP",JP_FNN Prime Online*
