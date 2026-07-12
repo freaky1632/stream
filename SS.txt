@@ -27,7 +27,7 @@ http://akariko.netgenx.siteharu.charandom.blog/stream/jp/tbs/stream-output.m3u8?
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/330px-TV_Tokyo_logo_2023.svg.png" tvg-id="JOTXDTV.jp" group-title="JP",JP_TV Tokyo
 http://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/ad/Fuji_tv_logo.png/250px-Fuji_tv_logo.png" tvg-id="JOCXDTV.jp" group-title="JP", JP_Fuji TV
-http://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+http://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/960px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-id="TokyoMX1.jp" group-title="JP", JP_Tokyo MX 1
 http://haru.charandom.blog/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/960px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-id="TokyoMX2.jp" group-title="JP", JP_Tokyo MX 2
