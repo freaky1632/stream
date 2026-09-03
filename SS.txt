@@ -55,7 +55,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rak
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/330px-NHK_World-Japan_TV.svg.png" group-title="Misc",JP_NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
-#EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/330px-NHK_logo_2020.svg.png" group-title="Misc",JP_NHK World Premium
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png" group-title="Misc",JP_NHK World Premium
 https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/960px-Arirang_logo.png" group-title="Misc",KR_Arirang World
