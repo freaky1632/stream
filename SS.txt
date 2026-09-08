@@ -14,7 +14,7 @@ https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logos/images/c/ce/TDM_Information.png/revision/latest/scale-to-width-down/754?cb=20230511122357&path-prefix=vi" group-title="Misc",MO_TDM Info
 https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png" tvg-id="JOJDDTV.jp" group-title="JP", JP_NHK G
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png" tvg-id="JOAKDTV.jp" group-title="JP", JP_NHK G
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/hevc/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NHK_logo_2020.svg/960px-NHK_logo_2020.svg.png" tvg-id="JOAKDTV.jp" group-title="JP", JP_NHK G
