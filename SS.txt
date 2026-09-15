@@ -34,6 +34,10 @@ https://fujitv4.mov3.co/hls/fujitv.m3u8
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://wajo-holdings.jp/wordpress/wp-content/uploads/2024/05/fnn.png" tvg-id="" group-title="JP",JP_RT FNN Prime Online*
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="" group-title="JP",JP_RT Tetsudo_Tabi*
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8
+#EXTINF:0 tvg-logo="" tvg-id="" group-title="JP",JP_RT Enka_Kayo*
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-enka-cmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/330px-NHK_World-Japan_TV.svg.png" group-title="Misc",JP_NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
