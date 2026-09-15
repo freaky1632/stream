@@ -30,13 +30,19 @@ https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/ad/Fuji_tv_logo.png/250px-Fuji_tv_logo.png" tvg-id="JOCXDTV.jp" group-title="JP", JP_Fuji TV
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 
-#EXTINF:0 tvg-logo="https://www.mcat.co.jp/wp/wp-content/themes/mihara-tv/images/ch/793.png" tvg-id="" group-title="JP",JP_RT NTV News 24*
+#EXTINF:0 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" tvg-id="" group-title="JP",JP_RT NTV News*
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://wajo-holdings.jp/wordpress/wp-content/uploads/2024/05/fnn.png" tvg-id="" group-title="JP",JP_RT FNN Prime Online*
+#EXTINF:0 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png" tvg-id="" group-title="JP",JP_RT FNN Prime Online*
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
-#EXTINF:0 tvg-logo="" tvg-id="" group-title="JP",JP_RT Tetsudo_Tabi*
+#EXTINF:0 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png" tvg-id="" group-title="JP",JP_RT MBS News*
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/108_mx.png" tvg-id="" group-title="JP",JP_RT Tokyo MX*
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/110_ntvnewsselect.png" tvg-id="" group-title="JP",JP_RT NTV News Select*
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/186_traintravel.png" tvg-id="" group-title="JP",JP_RT Tetsudo_Tabi*
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tandtcmaf-rakutenjp/playlist.m3u8
-#EXTINF:0 tvg-logo="" tvg-id="" group-title="JP",JP_RT Enka_Kayo*
+#EXTINF:0 tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/232_enka.png" tvg-id="" group-title="JP",JP_RT Enka_Kayo*
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-enka-cmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/330px-NHK_World-Japan_TV.svg.png" group-title="Misc",JP_NHK World
