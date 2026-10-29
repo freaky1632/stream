@@ -32,9 +32,9 @@ http://67.215.237.218:5002/hdgd07.m3u8?gid=hdgd07&token=guoziyun&channel=zhongyi
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/ad/Fuji_tv_logo.png/250px-Fuji_tv_logo.png" tvg-id="フジテレビ_jp" group-title="JP", JP_Fuji TV
 http://67.215.237.218:5002/hdgd05.m3u8?gid=hdgd05&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/960px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-id="TOKYO・MX_jp" group-title="JP", JP_Tokyo MX 1
-http://67.215.237.218:5002/hdgd01.m3u8?gid=hdgd01&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
+http://67.215.237.218:5002/hdgd08.m3u8?gid=hdgd08&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1156799516848246784/Hl_-cHV6.png" tvg-id="MUSIC-ON!-TV(エムオン!)_jp" group-title="JP", JP_Music ON! TV
-http://67.215.237.218:5002/cs06.m3u8?gid=cs06&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
+http://67.215.237.218:5002/cs18.m3u8?gid=cs18&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
 #EXTINF:0 tvg-logo="https://www.ogaki-tv.co.jp/services/tv/img/channel/logo_kayopops.png" tvg-id="歌謡ポップスチャンネル_jp" group-title="JP",JP_CS Kayopops
 http://67.215.237.218:5002/cs13.m3u8?gid=cs13&token=guoziyun&channel=zhongying&uin=159413&ts=0&sign=&playseek=0
 #EXTINF:0 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/News24.svg/500px-News24.svg.png" tvg-id="日テレNEWS24_jp" group-title="JP", JP_NTV News 24
